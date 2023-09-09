@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  margin-top: 20px;
+  margin-left: 20px;
+  text-shadow: 1px 3px red;
+  
+}
+#pure{
+  width: 90%;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 20px;
+  line-height: 30px;
+  font-family: 'Roboto Slab', serif;
+}
+#pureOutput{
+  margin-top: 20px;
+  margin-left: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  color: rgb(28, 28, 143);
+}
+.para{
+  margin-left: -15px;
+  color: black;
+}
+p{
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 20px;
+  line-height: 30px;
+  font-family: 'Roboto Slab', serif;
+}
+.counterapp{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: center;
+  color: rgb(28, 28, 143);
+}
+button{
+  height: 40px;
+  width: 130px;
+  border-radius: 20px;
+  border: 2px solid gainsboro;
+  background-color: lightcoral;
+  margin-left: 20px;
+  font-size: 15px;
+}
