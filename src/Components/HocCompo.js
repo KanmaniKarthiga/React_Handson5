@@ -9,6 +9,7 @@ const HocCounter = (WrappedComponent) =>{
         return(
             <div>
                 <WrappedComponent counter={Counter} handleClick={HandleClick}/>
+                
             </div>
         )
     }
